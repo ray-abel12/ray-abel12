@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm King Ray</h1>
-<h3 align="center">A full-stack developer</h3>
+<h1 align="center">Hi 👋, I'm Abel Ray</h1>
+<h3 align="center">A Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray-abel12&label=Profile%20views&color=0e75b6&style=flat" alt="ray-abel12" /> </p>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_rayking__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AbelRay13" height="30" width="40" /></a>
+<a href="https://twitter.com/AbelRay13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AbelRay13" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/abel1251" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abel1251" height="30" width="40" /></a>
 <a href="https://medium.com/@raybaba89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@raybaba89" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rayabel1251" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rayabel1251" height="30" width="40" /></a>
